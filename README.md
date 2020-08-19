@@ -1,0 +1,3 @@
+# face-comparison
+使用facerecognition对学籍照片和毕业照片进行比对，筛选可能顶替上大学的学生
+首先需要安装cmake
