@@ -14,3 +14,7 @@ pip install dlib==19.7.0
 pip install face_recognition
 
 若是所有图片都在一个文件夹用classical进行分类，用rename重命名照片，根据xlsx重命名，运行facecomparion.py输出人脸比对的face distence到xlsx。
+
+8月21号更新，minditence从一个文件夹中选取最接近的人脸
+
+dependonexcel根据excel来完成两张人脸的选取
